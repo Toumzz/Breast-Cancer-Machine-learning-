@@ -1,0 +1,4 @@
+#pour ignorer l'environnement virtuel
+venv/
+
+brol.txt
